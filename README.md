@@ -6,9 +6,9 @@ Firstly, disease similarity, disease-protein association and protein-protein int
 
 #### Dependencies
 1. Matlab >= 2020a
-2. DiShIn (https://github.com/lasigeBioTM/DiShIn)
-3. Karate Club library (https://github.com/benedekrozemberczki/karateclub)
-4. SVDD-MATLAB (https://github.com/iqiukp/SVDD-MATLAB)
+2. DiShIn (https://githubfast.com/lasigeBioTM/DiShIn)
+3. Karate Club library (https://githubfast.com/benedekrozemberczki/karateclub)
+4. SVDD-MATLAB (https://githubfast.com/iqiukp/SVDD-MATLAB)
 
 #### Experimental Steps
 1. Human protein-protein interaction, disease-protein association and disease-disease similarity are obtained and calculated based on the HIPPIE 
@@ -47,6 +47,6 @@ In this study, a heterogeneous relationship network containing disease and prote
 Please report all usage issues by opening an issue at this repo.
 
 #### Cite
-Zhanchao Li, Yuqi Liu, Qian Deng, Yan Wang, Ali Chen, Wei Xiao. Identifying Disease-Protein Associations from a Heterogeneous Network Using Graph Embedding and Sample Screening. Biomolecules, Submitting.
+Zhanchao Li, Yuqi Liu, Qian Deng, Yan Wang, Ali Chen, Wei Xiao. Identifying Disease-Protein Associations from a Heterogeneous Network Using Graph Embedding and Sample Screening. Molecules, Submitting.
 
 
