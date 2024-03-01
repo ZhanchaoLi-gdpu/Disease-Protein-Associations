@@ -46,7 +46,3 @@ In this study, a heterogeneous relationship network containing disease and prote
 #### Issues
 Please report all usage issues by opening an issue at this repo.
 
-#### Cite
-Zhanchao Li, Yuqi Liu, Qian Deng, Yan Wang, Ali Chen, Wei Xiao. Identifying Disease-Protein Associations from a Heterogeneous Network Using Graph Embedding and Sample Screening. Molecules, Submitting.
-
-
